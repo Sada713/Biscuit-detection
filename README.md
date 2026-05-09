@@ -97,18 +97,6 @@ python src/main.py
 
 ---
 
-# 📷 Example Results
-
-## Input Image
-
-(Add input image screenshot here)
-
-## Output Image
-
-(Add output image screenshot here)
-
----
-
 # 🧠 Detection Logic
 
 The program identifies biscuits using contour detection.
